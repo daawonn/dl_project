@@ -6,3 +6,5 @@ Tensorflow, Keras, Pytorch
 2) 케라스 기초 / CNN
 
 3) 파이토치 기초 /CNN
+
+4) 자연어처리 
